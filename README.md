@@ -1,5 +1,10 @@
 I'm excited to share how I utilized data analysis and visualization techniques to create a comprehensive sales dashboard for a SuperStore by Microsoft PowerBI. This dashboard provides valuable insights into sales performance, customer behavior, and market trends.
 
+![15 Days Sales Forecast](https://raw.githubusercontent.com/heyamay/Superstore-sales-dashboard/main/15%20days%20sales%20forecast.jpg)
+
+![Sales Dashboard](https://raw.githubusercontent.com/heyamay/Superstore-sales-dashboard/main/Sales%20dashboard.jpg)
+
+
 🔍 Key features include:
 
 1. Sales by Region, Segment, and Product Category: Identifying top-performing areas and opportunities for growth.
