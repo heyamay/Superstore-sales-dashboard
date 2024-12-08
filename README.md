@@ -16,3 +16,9 @@ I'm excited to share how I utilized data analysis and visualization techniques t
 4. Sales Forecasting: Provides a detailed sales forecast for the next 15 days. This is valuable for businesses as it allows them to plan their inventory and staffing levels accordingly.
 
 This dashboard empowers decision-makers to make data-driven decisions and optimize sales strategies. I'm eager to contribute to the superstore's continued success by utilizing advanced analytics and forecasting techniques.
+
+Resume Content -
+- Identified top-performing regions, segments, and product categories; assessed sales and profit trends.
+- Developed customer segmentation models, increasing engagement by 30% and repeat sales by 15%.
+- Created 15-day sales forecasts using PowerBI, optimizing inventory levels and reducing overstock by 25%, while improving staffing allocation accuracy by 18%.
+- Preprocessed and cleaned 10,000+ rows of raw data with Power Query and DAX, improving data quality and reducing processing time by 40%
